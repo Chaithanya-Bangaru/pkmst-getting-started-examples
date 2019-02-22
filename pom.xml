@@ -252,14 +252,23 @@
 		</repository>
 	</repositories>
 	<!-- Add modules here -->
-	<modules>
-		<module>hello-sample</module>
-		<module>crud-sample</module>
-		<module>mongodb-sample</module>
-		<module>pkmst-security-sample</module>
-		<module>data-sample</module>
-		<module>pkmst-mongo-sample</module>
-		<module>pkmst-hello-sample</module>
-		<module>pkmst-middleware-example</module>
-	</modules>
+<modules>
+        <module>hello-sample</module>
+        <module>crud-sample</module>
+        <module>mongodb-sample</module>
+        <module>data-sample</module>
+        <module>pkmst-hello-sample</module>
+        <module>hello-sample</module>
+        <module>pkstmt-mongo-sample</module>
+        <module>pkmst-forex-rate-service-sample</module>
+        <module>pkmst-jwt-example</module>
+        <module>pkmst-jwt-security-example</module>
+        <module>pkmst-middleware-example</module>
+        <module>pkmst-order-mgmt-msg-broker-service-sample</module>
+        <module>pkmst-process-payment-msg-broker-service-sample</module>
+        <module>pkmst-process-workorder-msg-broker-service-sample</module>
+        <module>pkmst-security-sample</module>
+        <module>pkmst-stock-price-composite-service-sample</module>
+        <module>pkmst-stock-price-service-sample</module>
+    </modules>
 </project>
